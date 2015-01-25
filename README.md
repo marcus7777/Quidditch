@@ -25,6 +25,16 @@ space bar to fly up
 
 shift to drop or if faceing down go into a dive.
 
+## Modal
+in js in memmory 
 
-## rendering
-[seenjs](http://seenjs.io/) or [Snap.svg](http://snapsvg.io/)
+saved as json 
+
+network updates json
+
+## View
+[seenjs](http://seenjs.io/)
+
+## npc (Ai)
+
+?? js
