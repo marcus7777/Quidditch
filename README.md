@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/marcus7777/Quidditch.png?label=ready&title=Ready)](https://waffle.io/marcus7777/Quidditch)
 # quittage
 quittage in svg and firebase
 
