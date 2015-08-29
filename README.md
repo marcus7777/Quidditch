@@ -29,12 +29,11 @@ shift to drop or if faceing down go into a dive.
 ## Modal
 in js in memmory 
 
-saved as json 
+saved as json
 
-network updates json
+## view
 
-## View
-[seenjs](http://seenjs.io/) or [kevin roast phoria.js](https://github.com/kevinroast/phoria.js)
+http://stack.gl/
 
 ## npc (Ai)
 
